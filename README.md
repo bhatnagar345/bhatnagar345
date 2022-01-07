@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhatnagar</h1>
 <h3 align="center">A Fresher Software Developer and Front End Developer</h3>
 
-- 🔭 I’m currently working on **My Skills**
+- 🔭 I’m currently working on **JS, ReactJs, NodeJS**
 
 - 🌱 I’m currently learning **Backend**
 
